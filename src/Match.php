@@ -96,11 +96,13 @@ class Match extends AbstractItem
 
     /**
      * # doelpunten thuis club
+     * @var int|null
      */
     public $PuntenTeam1;
 
     /**
      * # doelpunten uit club
+     * @var int|null
      */
     public $PuntenTeam2;
 
